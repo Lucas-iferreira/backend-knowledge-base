@@ -14,7 +14,7 @@
 
 > Base da linguagem Java.
 
-- ⬜ Sintaxe
+- 🟩 Sintaxe
 - ⬜ Tipos Primitivos
 - ⬜ Variáveis
 - ⬜ Operadores

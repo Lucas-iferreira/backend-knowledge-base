@@ -15,8 +15,8 @@
 > Base da linguagem Java.
 
 - 🟩 Sintaxe
-- ⬜ Tipos Primitivos
-- ⬜ Variáveis
+- 🟩 Tipos Primitivos
+- 🟩 Variáveis
 - ⬜ Operadores
 - ⬜ Estruturas Condicionais
 - ⬜ Estruturas de Repetição

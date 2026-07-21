@@ -20,8 +20,8 @@
 - 🟩 Operadores
 - 🟩 Estruturas Condicionais
 - 🟩 Estruturas de Repetição
-- ⬜ Arrays
-- ⬜ Matrizes
+- 🟩 Arrays
+- 🟩 Matrizes
 - ⬜ Métodos
 - ⬜ Escopo
 - ⬜ Modificadores de Acesso

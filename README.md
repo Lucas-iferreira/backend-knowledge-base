@@ -19,7 +19,7 @@
 - 🟩 Variáveis
 - 🟩 Operadores
 - 🟩 Estruturas Condicionais
-- ⬜ Estruturas de Repetição
+- 🟩 Estruturas de Repetição
 - ⬜ Arrays
 - ⬜ Matrizes
 - ⬜ Métodos

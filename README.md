@@ -17,8 +17,8 @@
 - 🟩 Sintaxe
 - 🟩 Tipos Primitivos
 - 🟩 Variáveis
-- ⬜ Operadores
-- ⬜ Estruturas Condicionais
+- 🟩 Operadores
+- 🟩 Estruturas Condicionais
 - ⬜ Estruturas de Repetição
 - ⬜ Arrays
 - ⬜ Matrizes

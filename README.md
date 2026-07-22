@@ -22,7 +22,7 @@
 - 🟩 Estruturas de Repetição
 - 🟩 Arrays
 - 🟩 Matrizes
-- ⬜ Métodos
+- 🟩 Métodos
 - ⬜ Escopo
 - ⬜ Modificadores de Acesso
 

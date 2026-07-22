@@ -13,5 +13,5 @@ Neste módulo estão os conceitos básicos da linguagem Java.
 - [Arrays](./arrays.md)
 - [Matrizes](./matrizes.md)
 - [Métodos](./metodos.md)
-- [Métodos](./metodos.md)
-- [Métodos](./metodos.md)
+- [Escopo](./escopo.md)
+- [Modificadores de Acesso](./modificadores-acesso.md)

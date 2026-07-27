@@ -23,8 +23,7 @@
 - 🟩 Arrays
 - 🟩 Matrizes
 - 🟩 Métodos
-- ⬜ Escopo
-- ⬜ Modificadores de Acesso
+- 🟩 Modificadores de Acesso
 
 ---
 

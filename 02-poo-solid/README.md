@@ -13,8 +13,6 @@ Neste módulo estão os conceitos básicos da linguagem Java.
 - [Interfaces](./interfaces.md)
 - [Classes Abstratas](./classes-abstratas.md)
 - [Associação](./associacao.md)
-- [Agregação](./agregacao.md)
-- [Composição](./composicao.md)
 - [SOLID](./solid.md)
 - [Clean Code](./clean-code.md)
 - [DRY](./dry.md)

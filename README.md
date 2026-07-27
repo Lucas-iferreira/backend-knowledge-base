@@ -38,11 +38,9 @@
 - 🟩 Polimorfismo
 - 🟩 Abstração
 - 🟩 Interfaces
-- ⬜ Classes Abstratas
-- ⬜ Associação
-- ⬜ Agregação
-- ⬜ Composição
-- ⬜ SOLID
+- 🟩 Classes Abstratas
+- 🟩 Associação
+- 🟩 SOLID
 - ⬜ Clean Code
 - ⬜ DRY
 - ⬜ KISS

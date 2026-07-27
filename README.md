@@ -31,12 +31,13 @@
 
 > Programação Orientada a Objetos e boas práticas.
 
-- ⬜ Classes e Objetos
-- ⬜ Encapsulamento
-- ⬜ Herança
-- ⬜ Polimorfismo
-- ⬜ Abstração
-- ⬜ Interfaces
+- 🟩 Programação Orientada a Objetos
+- 🟩 Classes e Objetos
+- 🟩 Encapsulamento
+- 🟩 Herança
+- 🟩 Polimorfismo
+- 🟩 Abstração
+- 🟩 Interfaces
 - ⬜ Classes Abstratas
 - ⬜ Associação
 - ⬜ Agregação

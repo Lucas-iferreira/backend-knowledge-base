@@ -41,9 +41,7 @@
 - 🟩 Classes Abstratas
 - 🟩 Associação
 - 🟩 SOLID
-- ⬜ Clean Code
-- ⬜ DRY
-- ⬜ KISS
+- 🟩 Clean Code
 
 ---
 

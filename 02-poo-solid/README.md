@@ -15,5 +15,3 @@ Neste módulo estão os conceitos básicos da linguagem Java.
 - [Associação](./associacao.md)
 - [SOLID](./solid.md)
 - [Clean Code](./clean-code.md)
-- [DRY](./dry.md)
-- [KISS](./kiss.md)

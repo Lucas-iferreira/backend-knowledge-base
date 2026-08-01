@@ -66,14 +66,14 @@
 
 > Padrões de projeto utilizados no desenvolvimento backend.
 
-- ⬜ Strategy
-- ⬜ Factory
-- ⬜ Builder
-- ⬜ Singleton
-- ⬜ Observer
-- ⬜ Adapter
-- ⬜ Facade
-- ⬜ Decorator
+- 🟩 Strategy
+- 🟩 Factory
+- 🟩 Builder
+- 🟩 Singleton
+- 🟩 Observer
+- 🟩 Adapter
+- 🟩 Facade
+- 🟩 Decorator
 
 ---
 

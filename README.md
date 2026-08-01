@@ -49,12 +49,12 @@
 
 > Recursos modernos e avançados da linguagem.
 
-- ⬜ Collections Framework
-- ⬜ Generics
-- ⬜ Exceptions
-- ⬜ Optional
-- ⬜ Lambda
-- ⬜ Stream API
+- 🟩 Collections Framework
+- 🟩 Generics
+- 🟩 Exceptions
+- 🟩 Optional
+- 🟩 Lambda
+- 🟩 Stream API
 - ⬜ Date & Time API
 - ⬜ Functional Interfaces
 - ⬜ Reflection

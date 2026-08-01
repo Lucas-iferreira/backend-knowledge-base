@@ -11,6 +11,6 @@ Neste módulo estão os conceitos básicos da linguagem Java.
 - [Lambda](./lambda.md)
 - [Stream API](./stream-api.md)
 - [Date & Time API](./date-time.md)
-- [Functional Interfaces](.functional-interfaces.md)
+- [Functional Interfaces](./functional-interfaces.md)
 - [Reflection](./reflection.md)
 - [Annotations](./annotations.md)

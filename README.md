@@ -55,10 +55,10 @@
 - 🟩 Optional
 - 🟩 Lambda
 - 🟩 Stream API
-- ⬜ Date & Time API
-- ⬜ Functional Interfaces
-- ⬜ Reflection
-- ⬜ Annotations
+- 🟩 Date & Time API
+- 🟩 Functional Interfaces
+- 🟩 Reflection
+- 🟩 Annotations
 
 ---
 

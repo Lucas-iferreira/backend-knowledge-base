@@ -1,6 +1,6 @@
-# ☕ Java Fundamentos
+# ☕ Java Avançado
 
-Neste módulo estão os conceitos básicos da linguagem Java.
+Recursos modernos e avançados da linguagem.
 
 ## Conteúdo
 

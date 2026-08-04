@@ -81,17 +81,17 @@
 
 > Banco de dados relacional.
 
-- ⬜ Modelagem
-- ⬜ Normalização
-- ⬜ SELECT
-- ⬜ INSERT
-- ⬜ UPDATE
-- ⬜ DELETE
-- ⬜ JOIN
-- ⬜ GROUP BY
-- ⬜ HAVING
-- ⬜ Índices
-- ⬜ Views
+- 🟩 Modelagem
+- 🟩 Normalização
+- 🟩 SELECT
+- 🟩 INSERT
+- 🟩 UPDATE
+- 🟩 DELETE
+- 🟩 JOIN
+- 🟩 GROUP BY
+- 🟩 HAVING
+- 🟩 Índices
+- 🟩 Views
 
 ---
 

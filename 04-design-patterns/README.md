@@ -1,6 +1,6 @@
-# ☕ Java Fundamentos
+# ☕ Design Patterns
 
-Neste módulo estão os conceitos básicos da linguagem Java.
+Padrões de projeto utilizados no desenvolvimento backend.
 
 ## Conteúdo
 

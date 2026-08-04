@@ -1,6 +1,6 @@
-# ☕ Java Fundamentos
+# ☕ Programação Orientada a Objetos
 
-Neste módulo estão os conceitos básicos da linguagem Java.
+Programação Orientada a Objetos e boas práticas.
 
 ## Conteúdo
 

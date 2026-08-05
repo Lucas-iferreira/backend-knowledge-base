@@ -99,10 +99,10 @@
 
 > Persistência de dados.
 
-- ⬜ Entidades
-- ⬜ Ciclo de Vida
-- ⬜ Relacionamentos
-- ⬜ Cascade
+- 🟩 Entidades
+- 🟩 Ciclo de Vida
+- 🟩 Relacionamentos
+- 🟩 Cascade
 - ⬜ Fetch Types
 - ⬜ JPQL
 - ⬜ Specifications

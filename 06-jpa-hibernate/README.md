@@ -12,4 +12,4 @@ Persistência de dados.
 - [Fetch Types](./fetch-types.md)
 - [JPQL](./jpql.md)
 - [Specifications](./specification.md)
-- [Paginação](./.md)
+- [Paginação](./paginacao.md)

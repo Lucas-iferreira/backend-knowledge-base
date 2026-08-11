@@ -103,10 +103,10 @@
 - 🟩 Ciclo de Vida
 - 🟩 Relacionamentos
 - 🟩 Cascade
-- ⬜ Fetch Types
-- ⬜ JPQL
-- ⬜ Specifications
-- ⬜ Paginação
+- 🟩 Fetch Types
+- 🟩 JPQL
+- 🟩 Specifications
+- 🟩 Paginação
 
 ---
 

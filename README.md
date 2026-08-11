@@ -114,8 +114,8 @@
 
 > Fundamentos do Spring Framework.
 
-- ⬜ Spring Initializr
-- ⬜ Estrutura do Projeto
+- 🟩 Spring Initializr
+- 🟩 Estrutura do Projeto
 - ⬜ IoC
 - ⬜ Dependency Injection
 - ⬜ Beans

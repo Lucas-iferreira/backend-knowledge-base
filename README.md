@@ -116,11 +116,11 @@
 
 - 🟩 Spring Initializr
 - 🟩 Estrutura do Projeto
-- ⬜ IoC
-- ⬜ Dependency Injection
-- ⬜ Beans
-- ⬜ Profiles
-- ⬜ Configurações
+- 🟩 IoC
+- 🟩 Dependency Injection
+- 🟩 Beans
+- 🟩 Profiles
+- 🟩 Configurações
 
 ---
 
